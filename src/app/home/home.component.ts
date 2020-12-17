@@ -133,7 +133,7 @@ export class HomeComponent extends android.content.BroadcastReceiver implements 
 
   ngOnInit(): void {
     // Init your component properties here.
-    const phoneNumber = '9819574649';
+    const phoneNumber = '999999999';
     // https://www.thepolyglotdeveloper.com/2017/08/request-android-permissions-nativescript-angular/
     Permissions.requestPermissions([
       android.Manifest.permission.READ_PHONE_STATE,
